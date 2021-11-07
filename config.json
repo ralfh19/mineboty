@@ -1,6 +1,6 @@
 {
- "ip": "Your_minecraft_server_ip_here",
- "port": "Your_server_port_here",
+ "ip": "RONOVE19.aternos.me",
+ "port": "63467",
  "name": "Your_bot_name_here",
  "auto-night-skip": "false",
  "token": "Your_discord_bot_token_here",
